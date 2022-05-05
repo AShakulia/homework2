@@ -1,0 +1,25 @@
+{
+  "name": "mogo",
+  "version": "1.0.0",
+  "description": "source",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AShakulia/MoGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AShakulia/homework2.git"
+  },
+  "homepage": "https://github.com/AShakulia/MoGo#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1",
+    "sass": "^1.50.0"
+  }
+}
